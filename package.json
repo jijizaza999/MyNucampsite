@@ -1,0 +1,48 @@
+{
+  "name": "nucampsite",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://jijizaza999/github.io/NucampProject",
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "bootstrap": "^4.5.2",
+    "bootstrap-social": "5.1.1",
+    "font-awesome": "4.7.0",
+    "fontawesome": "^5.6.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-popper": "^2.2.3",
+    "react-scripts": "3.4.3",
+    "reactstrap": "^8.5.1",
+    "typeface-lobster": "^0.0.72",
+    "typeface-open-sans": "^0.0.75"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
