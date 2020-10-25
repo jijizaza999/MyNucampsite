@@ -1,7 +1,6 @@
 import React from 'react';
 import { Breadcrumb, BreadcrumbItem, Card, CardBody, CardHeader, Media } from 'reactstrap';
 import { Link } from 'react-router-dom';
-import { baseUrl } from '../shared/baseUrl';
 import { Loading } from './LoadingComponent';
 import { Fade, Stagger } from 'react-animation-components';
 
@@ -42,7 +41,7 @@ function RenderPartner ({partner}) {
        return(
         <React.Fragment>
 
-            <Media object="true" src={baseUrl + partner.image} alt={partner.name} width="150" />
+            <Media object="true" src={partner.image} alt={partner.name} width="150" />
             <Media body="true" className="ml-5 mb-4">
                 <Media heading="true">
                     {partner.name}
