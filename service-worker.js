@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MyNucampsite/precache-manifest.cd75265e9cee5e679315a1ec07041aa9.js"
+  "/MyNucampsite/precache-manifest.73d4fe4d1f2e1f08831132b7c7c91714.js"
 );
 
 self.addEventListener('message', (event) => {
