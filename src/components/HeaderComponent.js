@@ -56,7 +56,7 @@ class Header extends Component {
 
                 <Navbar dark sticky="top" expand="md">
                     <div className="container">
-                        <NavbarBrand className="mr-auto" href="/home">
+                        <NavbarBrand className="mr-auto" href="/">
                           <img src="https://raw.githubusercontent.com/jijizaza999/json-server/main/images/logo.png" height="30" width="30" alt="NuCamp Logo" />
                         </NavbarBrand>
                         <NavbarToggler onClick={this.toggleNav} />
