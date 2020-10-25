@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f29783b2f0eb82a8647756b76ee2e38a",
+    "revision": "d5e1a5c65587a2f857842654b1f59856",
     "url": "/MyNucampsite/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyNucampsite/static/css/2.18510b97.chunk.css"
   },
   {
-    "revision": "5393fe17aa3c918393c3",
+    "revision": "22a2f421a3de48e2da13",
     "url": "/MyNucampsite/static/css/main.b8f64ec6.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyNucampsite/static/js/2.41c01c65.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5393fe17aa3c918393c3",
-    "url": "/MyNucampsite/static/js/main.bb004344.chunk.js"
+    "revision": "22a2f421a3de48e2da13",
+    "url": "/MyNucampsite/static/js/main.4c8d49ca.chunk.js"
   },
   {
     "revision": "5cbdc11125277253e6e2",
